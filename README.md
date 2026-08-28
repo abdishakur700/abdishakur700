@@ -16,29 +16,7 @@ I build clean, responsive, and user-friendly websites while learning new technol
 * ⚛️ React
 * 🅱️ Bootstrap
 * 🌬️ Tailwind CSS
-* <div style="display: flex; align-items: flex-start; align: center">
-    <table align="center">
-        <tr>
-           
-            <td align="center" width="96">
-                <a href="#macropower-tech">
-                    <img src="https://techstack-generator.vercel.app/python-icon.svg" width="48" height="48" alt="Python" />
-                </a>
-                <br>Python
-            </td>
-            <td align="center" width="96">
-                <img src="https://techstack-generator.vercel.app/js-icon.svg" width="48" height="48" alt="JavaScript" />
-                <br>JavaScript
-            </td>
-   
-      
-   
-     
-        </tr>
-    </table>
-    <br>
-    <br>
-</div>
+
 
 **Tools**
 
@@ -58,4 +36,4 @@ Become a **Full-Stack Software Engineer** and contribute to **open-source projec
 ### 📫 Connect With Me
 
 * 📧 Email: dibaacade142@gmail.com
-* 🌐 Portfolio:
+* 🌐 Portfolio: https://abdishakur700.github.io/CodeAlpha_Portfolio/
