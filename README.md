@@ -19,10 +19,7 @@ I build clean, responsive, and user-friendly websites while learning new technol
 * <div style="display: flex; align-items: flex-start; align: center">
     <table align="center">
         <tr>
-            <td align="center" width="96">
-                <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" />
-                <br>TensorFlow
-            </td>
+           
             <td align="center" width="96">
                 <a href="#macropower-tech">
                     <img src="https://techstack-generator.vercel.app/python-icon.svg" width="48" height="48" alt="Python" />
@@ -32,24 +29,6 @@ I build clean, responsive, and user-friendly websites while learning new technol
             <td align="center" width="96">
                 <img src="https://techstack-generator.vercel.app/js-icon.svg" width="48" height="48" alt="JavaScript" />
                 <br>JavaScript
-            </td>
-           
-            </td>
-         
-            <td align="center" width="96">
-                <img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="48" height="48" alt="C#" />
-                <br>C#
-            </td>
-        </tr>
-        <tr>
-   
-           
-            <td align="center" width="96">
-                <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
-                <br>Git
-            </td>
-            </td>
-  
             </td>
    
       
