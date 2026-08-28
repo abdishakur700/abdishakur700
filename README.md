@@ -1,4 +1,4 @@
-# abdishakur700
+# abdishakur
 # 👋 Hi, I'm Abdishakur
 
 🎓 **Software Engineering Student**
