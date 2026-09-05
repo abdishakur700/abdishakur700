@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,mongodb,mysql,python,django,java,git,github,vscode,netbeans,idea,sublime" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,mongodb,mysql,python,django,java,git,github,vscode,idea,sublime" />
 </p>
 
 <h4 align="center">
@@ -33,7 +33,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,netbeans,idea,sublime" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,sublime" />
 </p>
 
 <p align="center">
