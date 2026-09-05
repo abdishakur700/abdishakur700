@@ -26,14 +26,6 @@
   🤖 Interested in AI and modern software technologies
 </h4>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&label=PROFILE+VIEWS"/>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</p>
-
 <h3 align="center">🚀 Technologies & Tools</h3>
 
 <p align="center">
