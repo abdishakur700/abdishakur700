@@ -58,12 +58,11 @@
 ### 🔧 Tools & Platforms
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,jetbrains,sublime text"/>
 </p>
 
-<p align="center">
-<b>NetBeans • Sublime Text</b>
-</p>
+
+
 
 ---
 
