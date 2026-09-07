@@ -102,9 +102,7 @@ My goal is to become a **professional Full-Stack Software Engineer**, build usef
 
 ## 📊 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdishakur700&show_icons=true&theme=tokyonight" />
-</p>
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdishakur700&theme=tokyonight&hide_border=true" />
 </p>
