@@ -40,7 +40,7 @@
 ### ⚙️ Backend Development
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,django"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,django,php"/>
 </p>
 
 ### 🗄️ Databases
