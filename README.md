@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Abdishakur</h1>
 
 <h3 align="center">
-💻 Web Developer • 👨‍💻 Software Developer • 🎓 Software Engineering Student
+💻 Web Developer • 👨‍💻 Software Developer •👨‍🎨Graphic Designer •🎓 Software Engineering Student
 </h3>
 
 <p align="center">
